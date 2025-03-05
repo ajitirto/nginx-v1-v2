@@ -38,8 +38,8 @@ Proyek ini mendemonstrasikan cara menjalankan server Nginx dengan konfigurasi ru
 
 3.  Buka browser dan akses URL berikut:
 
-    * `http://localhost/v1/`
-    * `http://localhost/v2/`
+    * `http://localhost:81/v1/index.html`
+    * `http://localhost:81/v2/index.html`
 
     Anda akan melihat halaman HTML yang berbeda untuk setiap rute.
 
